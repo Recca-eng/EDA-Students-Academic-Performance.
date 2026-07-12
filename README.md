@@ -24,3 +24,4 @@ Columns: 17
 
 ## Tools
 Google Colab
+Python 3
